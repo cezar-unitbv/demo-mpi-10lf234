@@ -3,3 +3,5 @@
 Demo repo
 
 Some new text
+
+I want to resolve Issue 6
